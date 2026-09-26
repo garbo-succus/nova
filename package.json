@@ -1,0 +1,17 @@
+{
+  "name": "nova",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert": "node scripts/enhance.mjs && node scripts/render.mjs && node scripts/convert.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs"
+  },
+  "dependencies": {
+    "fflate": "0.8.3",
+    "sharp": "0.35.2",
+    "pdf-lib": "1.17.1"
+  },
+  "packageManager": "pnpm@10.34.5"
+}

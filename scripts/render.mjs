@@ -1,0 +1,4 @@
+import fs from 'node:fs/promises';import{execFile}from'node:child_process';import{promisify}from'node:util';import{fileURLToPath}from'node:url';
+const run=promisify(execFile);const root=fileURLToPath(new URL('../',import.meta.url));await fs.mkdir(root+'.cache',{recursive:true});
+const files=(await fs.readdir(root+'sources/pnp')).filter(x=>x.endsWith('.pdf')&&!x.startsWith('Rules'));
+for(const file of files){const stem=file.replace('.pdf','').replace(/[^a-zA-Z0-9-]/g,'_');let count=1;if(file.startsWith('Counters'))count=6;if(file.startsWith('Tables'))count=3;for(let page=1;page<=count;page++){const target=root+`.cache/${stem}-${page}`;try{await fs.access(target+'.png');continue;}catch{}await run('pdftoppm',['-f',String(page),'-l',String(page),'-r','304.8','-png','-singlefile',file==='Tables_Nova.pdf'?root+'.cache/Tables-enhanced.pdf':root+'sources/pnp/'+file,target],{maxBuffer:2e6});console.log(file,page);}}

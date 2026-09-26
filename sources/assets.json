@@ -1,0 +1,7086 @@
+[
+  {
+    "id": "Civilian-back",
+    "file": "Civilian-reverse.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-back.png"
+  },
+  {
+    "id": "Civilian-action-1",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-1.png"
+  },
+  {
+    "id": "Civilian-action-2",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-2.png"
+  },
+  {
+    "id": "Civilian-action-3",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-3.png"
+  },
+  {
+    "id": "Civilian-action-4",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-4.png"
+  },
+  {
+    "id": "Civilian-action-5",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-5.png"
+  },
+  {
+    "id": "Civilian-action-6",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-6.png"
+  },
+  {
+    "id": "Civilian-action-7",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-7.png"
+  },
+  {
+    "id": "Civilian-action-8",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-8.png"
+  },
+  {
+    "id": "Civilian-action-9",
+    "file": "Civilian-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-action-9.png"
+  },
+  {
+    "id": "Civilian-development-1",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-1.png"
+  },
+  {
+    "id": "Civilian-development-2",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-2.png"
+  },
+  {
+    "id": "Civilian-development-3",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-3.png"
+  },
+  {
+    "id": "Civilian-development-4",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-4.png"
+  },
+  {
+    "id": "Civilian-development-5",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-5.png"
+  },
+  {
+    "id": "Civilian-development-6",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-6.png"
+  },
+  {
+    "id": "Civilian-development-7",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-7.png"
+  },
+  {
+    "id": "Civilian-development-8",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-8.png"
+  },
+  {
+    "id": "Civilian-development-9",
+    "file": "Civilian-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-development-9.png"
+  },
+  {
+    "id": "Civilian-surprise-1",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-1.png"
+  },
+  {
+    "id": "Civilian-surprise-2",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-2.png"
+  },
+  {
+    "id": "Civilian-surprise-3",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-3.png"
+  },
+  {
+    "id": "Civilian-surprise-4",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-4.png"
+  },
+  {
+    "id": "Civilian-surprise-5",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-5.png"
+  },
+  {
+    "id": "Civilian-surprise-6",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-6.png"
+  },
+  {
+    "id": "Civilian-surprise-7",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-7.png"
+  },
+  {
+    "id": "Civilian-surprise-8",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-8.png"
+  },
+  {
+    "id": "Civilian-surprise-9",
+    "file": "Civilian-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-surprise-9.png"
+  },
+  {
+    "id": "Civilian-X-1",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-X-1.png"
+  },
+  {
+    "id": "Civilian-X-2",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-X-2.png"
+  },
+  {
+    "id": "Civilian-X-3",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Civilian-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Civilian-X-3.png"
+  },
+  {
+    "id": "Diplomatic-back",
+    "file": "Diplomatic reverse.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-back.png"
+  },
+  {
+    "id": "Diplomatic-action-1",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-1.png"
+  },
+  {
+    "id": "Diplomatic-action-2",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-2.png"
+  },
+  {
+    "id": "Diplomatic-action-3",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-3.png"
+  },
+  {
+    "id": "Diplomatic-action-4",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-4.png"
+  },
+  {
+    "id": "Diplomatic-action-5",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-5.png"
+  },
+  {
+    "id": "Diplomatic-action-6",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-6.png"
+  },
+  {
+    "id": "Diplomatic-action-7",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-7.png"
+  },
+  {
+    "id": "Diplomatic-action-8",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-8.png"
+  },
+  {
+    "id": "Diplomatic-action-9",
+    "file": "Diplomatic-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-action-9.png"
+  },
+  {
+    "id": "Diplomatic-development-1",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-1.png"
+  },
+  {
+    "id": "Diplomatic-development-2",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-2.png"
+  },
+  {
+    "id": "Diplomatic-development-3",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-3.png"
+  },
+  {
+    "id": "Diplomatic-development-4",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-4.png"
+  },
+  {
+    "id": "Diplomatic-development-5",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-5.png"
+  },
+  {
+    "id": "Diplomatic-development-6",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-6.png"
+  },
+  {
+    "id": "Diplomatic-development-7",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-7.png"
+  },
+  {
+    "id": "Diplomatic-development-8",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-8.png"
+  },
+  {
+    "id": "Diplomatic-development-9",
+    "file": "Diplomatic-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-development-9.png"
+  },
+  {
+    "id": "Diplomatic-surprise-1",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-1.png"
+  },
+  {
+    "id": "Diplomatic-surprise-2",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-2.png"
+  },
+  {
+    "id": "Diplomatic-surprise-3",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-3.png"
+  },
+  {
+    "id": "Diplomatic-surprise-4",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-4.png"
+  },
+  {
+    "id": "Diplomatic-surprise-5",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-5.png"
+  },
+  {
+    "id": "Diplomatic-surprise-6",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-6.png"
+  },
+  {
+    "id": "Diplomatic-surprise-7",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-7.png"
+  },
+  {
+    "id": "Diplomatic-surprise-8",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-8.png"
+  },
+  {
+    "id": "Diplomatic-surprise-9",
+    "file": "Diplomatic-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-surprise-9.png"
+  },
+  {
+    "id": "Diplomatic-X-1",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-X-1.png"
+  },
+  {
+    "id": "Diplomatic-X-2",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-X-2.png"
+  },
+  {
+    "id": "Diplomatic-X-3",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Diplomatic-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Diplomatic-X-3.png"
+  },
+  {
+    "id": "Military-back",
+    "file": "Military reverse.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-back.png"
+  },
+  {
+    "id": "Military-action-1",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-1.png"
+  },
+  {
+    "id": "Military-action-2",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-2.png"
+  },
+  {
+    "id": "Military-action-3",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-3.png"
+  },
+  {
+    "id": "Military-action-4",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-4.png"
+  },
+  {
+    "id": "Military-action-5",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-5.png"
+  },
+  {
+    "id": "Military-action-6",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-6.png"
+  },
+  {
+    "id": "Military-action-7",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-7.png"
+  },
+  {
+    "id": "Military-action-8",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-8.png"
+  },
+  {
+    "id": "Military-action-9",
+    "file": "Military-action.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-action-9.png"
+  },
+  {
+    "id": "Military-development-1",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-1.png"
+  },
+  {
+    "id": "Military-development-2",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-2.png"
+  },
+  {
+    "id": "Military-development-3",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-3.png"
+  },
+  {
+    "id": "Military-development-4",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-4.png"
+  },
+  {
+    "id": "Military-development-5",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-5.png"
+  },
+  {
+    "id": "Military-development-6",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-6.png"
+  },
+  {
+    "id": "Military-development-7",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-7.png"
+  },
+  {
+    "id": "Military-development-8",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-8.png"
+  },
+  {
+    "id": "Military-development-9",
+    "file": "Military-development.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-development-9.png"
+  },
+  {
+    "id": "Military-surprise-1",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-1.png"
+  },
+  {
+    "id": "Military-surprise-2",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-2.png"
+  },
+  {
+    "id": "Military-surprise-3",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-3.png"
+  },
+  {
+    "id": "Military-surprise-4",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-4.png"
+  },
+  {
+    "id": "Military-surprise-5",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-5.png"
+  },
+  {
+    "id": "Military-surprise-6",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      95.25,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-6.png"
+  },
+  {
+    "id": "Military-surprise-7",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      0,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-7.png"
+  },
+  {
+    "id": "Military-surprise-8",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-8.png"
+  },
+  {
+    "id": "Military-surprise-9",
+    "file": "Military-surprise.pdf",
+    "page": 1,
+    "box": [
+      127,
+      190.5,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-surprise-9.png"
+  },
+  {
+    "id": "Military-X-1",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-X-1.png"
+  },
+  {
+    "id": "Military-X-2",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      63.5,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-X-2.png"
+  },
+  {
+    "id": "Military-X-3",
+    "file": "X-cards.pdf",
+    "page": 1,
+    "box": [
+      127,
+      0,
+      63.5,
+      95.25
+    ],
+    "quantity": 1,
+    "back": "Military-back",
+    "kind": "card",
+    "rotation": 0,
+    "widthMm": 63.5,
+    "heightMm": 95.25,
+    "pixels": [
+      762,
+      1143
+    ],
+    "asset": "sources/assets/Military-X-3.png"
+  },
+  {
+    "id": "red-capital",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "red-capital-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-capital.png"
+  },
+  {
+    "id": "red-capital-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-capital-back.png"
+  },
+  {
+    "id": "red-colony",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      17,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "red-colony-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-colony.png"
+  },
+  {
+    "id": "red-colony-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-colony-back.png"
+  },
+  {
+    "id": "red-settlement",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      17,
+      16,
+      16
+    ],
+    "quantity": 4,
+    "back": "red-settlement-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-settlement.png"
+  },
+  {
+    "id": "red-settlement-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-settlement-back.png"
+  },
+  {
+    "id": "red-factory",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      17,
+      16,
+      16
+    ],
+    "quantity": 5,
+    "back": "red-factory-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-factory.png"
+  },
+  {
+    "id": "red-factory-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-factory-back.png"
+  },
+  {
+    "id": "red-fortress",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      17,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "red-fortress-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-fortress.png"
+  },
+  {
+    "id": "red-fortress-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-fortress-back.png"
+  },
+  {
+    "id": "red-line-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      33,
+      16,
+      16
+    ],
+    "quantity": 8,
+    "back": "red-line-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-line-fleet.png"
+  },
+  {
+    "id": "red-line-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-line-fleet-back.png"
+  },
+  {
+    "id": "red-escort-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      33,
+      16,
+      16
+    ],
+    "quantity": 6,
+    "back": "red-escort-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-escort-fleet.png"
+  },
+  {
+    "id": "red-escort-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-escort-fleet-back.png"
+  },
+  {
+    "id": "red-attack",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      33,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "red-attack-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-attack.png"
+  },
+  {
+    "id": "red-attack-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-attack-back.png"
+  },
+  {
+    "id": "red-defense",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      33,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "red-defense-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-defense.png"
+  },
+  {
+    "id": "red-defense-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-defense-back.png"
+  },
+  {
+    "id": "red-naval",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "red-naval-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-naval.png"
+  },
+  {
+    "id": "red-naval-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-naval-back.png"
+  },
+  {
+    "id": "red-income",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "red-income-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-income.png"
+  },
+  {
+    "id": "red-income-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-income-back.png"
+  },
+  {
+    "id": "red-vp",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      49,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "red-vp-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-vp.png"
+  },
+  {
+    "id": "red-vp-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      232,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/red-vp-back.png"
+  },
+  {
+    "id": "blue-capital",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "blue-capital-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-capital.png"
+  },
+  {
+    "id": "blue-capital-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-capital-back.png"
+  },
+  {
+    "id": "blue-colony",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      49,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "blue-colony-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-colony.png"
+  },
+  {
+    "id": "blue-colony-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-colony-back.png"
+  },
+  {
+    "id": "blue-settlement",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      49,
+      16,
+      16
+    ],
+    "quantity": 4,
+    "back": "blue-settlement-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-settlement.png"
+  },
+  {
+    "id": "blue-settlement-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-settlement-back.png"
+  },
+  {
+    "id": "blue-factory",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      49,
+      16,
+      16
+    ],
+    "quantity": 5,
+    "back": "blue-factory-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-factory.png"
+  },
+  {
+    "id": "blue-factory-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-factory-back.png"
+  },
+  {
+    "id": "blue-fortress",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      49,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "blue-fortress-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-fortress.png"
+  },
+  {
+    "id": "blue-fortress-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-fortress-back.png"
+  },
+  {
+    "id": "blue-line-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      65,
+      16,
+      16
+    ],
+    "quantity": 8,
+    "back": "blue-line-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-line-fleet.png"
+  },
+  {
+    "id": "blue-line-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      65,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-line-fleet-back.png"
+  },
+  {
+    "id": "blue-escort-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      65,
+      16,
+      16
+    ],
+    "quantity": 6,
+    "back": "blue-escort-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-escort-fleet.png"
+  },
+  {
+    "id": "blue-escort-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      65,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-escort-fleet-back.png"
+  },
+  {
+    "id": "blue-attack",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      65,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "blue-attack-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-attack.png"
+  },
+  {
+    "id": "blue-attack-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      65,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-attack-back.png"
+  },
+  {
+    "id": "blue-defense",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      65,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "blue-defense-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-defense.png"
+  },
+  {
+    "id": "blue-defense-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      65,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-defense-back.png"
+  },
+  {
+    "id": "blue-naval",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      65,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "blue-naval-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-naval.png"
+  },
+  {
+    "id": "blue-naval-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      216,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-naval-back.png"
+  },
+  {
+    "id": "blue-income",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "blue-income-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-income.png"
+  },
+  {
+    "id": "blue-income-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-income-back.png"
+  },
+  {
+    "id": "blue-vp",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      97,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "blue-vp-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-vp.png"
+  },
+  {
+    "id": "blue-vp-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      184,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/blue-vp-back.png"
+  },
+  {
+    "id": "green-capital",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      81,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "green-capital-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-capital.png"
+  },
+  {
+    "id": "green-capital-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      81,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-capital-back.png"
+  },
+  {
+    "id": "green-colony",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      81,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "green-colony-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-colony.png"
+  },
+  {
+    "id": "green-colony-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      81,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-colony-back.png"
+  },
+  {
+    "id": "green-settlement",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      81,
+      16,
+      16
+    ],
+    "quantity": 4,
+    "back": "green-settlement-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-settlement.png"
+  },
+  {
+    "id": "green-settlement-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      81,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-settlement-back.png"
+  },
+  {
+    "id": "green-factory",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      81,
+      16,
+      16
+    ],
+    "quantity": 5,
+    "back": "green-factory-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-factory.png"
+  },
+  {
+    "id": "green-factory-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      81,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-factory-back.png"
+  },
+  {
+    "id": "green-fortress",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      81,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "green-fortress-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-fortress.png"
+  },
+  {
+    "id": "green-fortress-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      81,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-fortress-back.png"
+  },
+  {
+    "id": "green-line-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      97,
+      16,
+      16
+    ],
+    "quantity": 8,
+    "back": "green-line-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-line-fleet.png"
+  },
+  {
+    "id": "green-line-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      97,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-line-fleet-back.png"
+  },
+  {
+    "id": "green-escort-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      97,
+      16,
+      16
+    ],
+    "quantity": 6,
+    "back": "green-escort-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-escort-fleet.png"
+  },
+  {
+    "id": "green-escort-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      97,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-escort-fleet-back.png"
+  },
+  {
+    "id": "green-attack",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      97,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "green-attack-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-attack.png"
+  },
+  {
+    "id": "green-attack-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      97,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-attack-back.png"
+  },
+  {
+    "id": "green-defense",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      97,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "green-defense-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-defense.png"
+  },
+  {
+    "id": "green-defense-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      97,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-defense-back.png"
+  },
+  {
+    "id": "green-naval",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      113,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "green-naval-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-naval.png"
+  },
+  {
+    "id": "green-naval-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      168,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-naval-back.png"
+  },
+  {
+    "id": "green-income",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      129,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "green-income-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-income.png"
+  },
+  {
+    "id": "green-income-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      152,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-income-back.png"
+  },
+  {
+    "id": "green-vp",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "green-vp-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-vp.png"
+  },
+  {
+    "id": "green-vp-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/green-vp-back.png"
+  },
+  {
+    "id": "yellow-capital",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      113,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "yellow-capital-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-capital.png"
+  },
+  {
+    "id": "yellow-capital-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      113,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-capital-back.png"
+  },
+  {
+    "id": "yellow-colony",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      113,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "yellow-colony-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-colony.png"
+  },
+  {
+    "id": "yellow-colony-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      113,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-colony-back.png"
+  },
+  {
+    "id": "yellow-settlement",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      113,
+      16,
+      16
+    ],
+    "quantity": 4,
+    "back": "yellow-settlement-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-settlement.png"
+  },
+  {
+    "id": "yellow-settlement-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      113,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-settlement-back.png"
+  },
+  {
+    "id": "yellow-factory",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      113,
+      16,
+      16
+    ],
+    "quantity": 5,
+    "back": "yellow-factory-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-factory.png"
+  },
+  {
+    "id": "yellow-factory-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      113,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-factory-back.png"
+  },
+  {
+    "id": "yellow-fortress",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      113,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "yellow-fortress-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-fortress.png"
+  },
+  {
+    "id": "yellow-fortress-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      113,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-fortress-back.png"
+  },
+  {
+    "id": "yellow-line-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      129,
+      16,
+      16
+    ],
+    "quantity": 8,
+    "back": "yellow-line-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-line-fleet.png"
+  },
+  {
+    "id": "yellow-line-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      129,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-line-fleet-back.png"
+  },
+  {
+    "id": "yellow-escort-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      129,
+      16,
+      16
+    ],
+    "quantity": 6,
+    "back": "yellow-escort-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-escort-fleet.png"
+  },
+  {
+    "id": "yellow-escort-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      129,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-escort-fleet-back.png"
+  },
+  {
+    "id": "yellow-attack",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      129,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "yellow-attack-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-attack.png"
+  },
+  {
+    "id": "yellow-attack-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      129,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-attack-back.png"
+  },
+  {
+    "id": "yellow-defense",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      129,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "yellow-defense-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-defense.png"
+  },
+  {
+    "id": "yellow-defense-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      129,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-defense-back.png"
+  },
+  {
+    "id": "yellow-naval",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      161,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "yellow-naval-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-naval.png"
+  },
+  {
+    "id": "yellow-naval-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      120,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-naval-back.png"
+  },
+  {
+    "id": "yellow-income",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      177,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "yellow-income-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-income.png"
+  },
+  {
+    "id": "yellow-income-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      104,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-income-back.png"
+  },
+  {
+    "id": "yellow-vp",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      193,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "yellow-vp-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-vp.png"
+  },
+  {
+    "id": "yellow-vp-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      88,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/yellow-vp-back.png"
+  },
+  {
+    "id": "tension-12",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      209,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "tension-12-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-12.png"
+  },
+  {
+    "id": "tension-12-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      72,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-12-back.png"
+  },
+  {
+    "id": "tension-13",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "tension-13-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-13.png"
+  },
+  {
+    "id": "tension-13-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-13-back.png"
+  },
+  {
+    "id": "tension-14",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "tension-14-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-14.png"
+  },
+  {
+    "id": "tension-14-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-14-back.png"
+  },
+  {
+    "id": "tension-15",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      145,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "tension-15-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-15.png"
+  },
+  {
+    "id": "tension-15-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      145,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/tension-15-back.png"
+  },
+  {
+    "id": "special-0",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-0-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-0.png"
+  },
+  {
+    "id": "special-0-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-0-back.png"
+  },
+  {
+    "id": "special-1",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-1-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-1.png"
+  },
+  {
+    "id": "special-1-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-1-back.png"
+  },
+  {
+    "id": "special-2",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      49,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-2-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-2.png"
+  },
+  {
+    "id": "special-2-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      232,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-2-back.png"
+  },
+  {
+    "id": "special-3",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      65,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-3-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-3.png"
+  },
+  {
+    "id": "special-3-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      216,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-3-back.png"
+  },
+  {
+    "id": "special-4",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-4-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-4.png"
+  },
+  {
+    "id": "special-4-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-4-back.png"
+  },
+  {
+    "id": "special-5",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      97,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-5-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-5.png"
+  },
+  {
+    "id": "special-5-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      184,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-5-back.png"
+  },
+  {
+    "id": "special-6",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      113,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-6-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-6.png"
+  },
+  {
+    "id": "special-6-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      168,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-6-back.png"
+  },
+  {
+    "id": "special-7",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      129,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-7-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-7.png"
+  },
+  {
+    "id": "special-7-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      152,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-7-back.png"
+  },
+  {
+    "id": "special-8",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-8-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-8.png"
+  },
+  {
+    "id": "special-8-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-8-back.png"
+  },
+  {
+    "id": "special-9",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      161,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-9-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-9.png"
+  },
+  {
+    "id": "special-9-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      120,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-9-back.png"
+  },
+  {
+    "id": "special-10",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      177,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-10-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-10.png"
+  },
+  {
+    "id": "special-10-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      104,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-10-back.png"
+  },
+  {
+    "id": "special-11",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      193,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-11-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-11.png"
+  },
+  {
+    "id": "special-11-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      88,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-11-back.png"
+  },
+  {
+    "id": "special-12",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      209,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-12-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-12.png"
+  },
+  {
+    "id": "special-12-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      72,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-12-back.png"
+  },
+  {
+    "id": "special-13",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-13-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-13.png"
+  },
+  {
+    "id": "special-13-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-13-back.png"
+  },
+  {
+    "id": "special-14",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-14-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-14.png"
+  },
+  {
+    "id": "special-14-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-14-back.png"
+  },
+  {
+    "id": "special-15",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      161,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "special-15-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-15.png"
+  },
+  {
+    "id": "special-15-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      161,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/special-15-back.png"
+  },
+  {
+    "id": "technology-0",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      17,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-0-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-0.png"
+  },
+  {
+    "id": "technology-0-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      264,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-0-back.png"
+  },
+  {
+    "id": "technology-1",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      33,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-1-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-1.png"
+  },
+  {
+    "id": "technology-1-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      248,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-1-back.png"
+  },
+  {
+    "id": "technology-2",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      49,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-2-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-2.png"
+  },
+  {
+    "id": "technology-2-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      232,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-2-back.png"
+  },
+  {
+    "id": "technology-3",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      65,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-3-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-3.png"
+  },
+  {
+    "id": "technology-3-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      216,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-3-back.png"
+  },
+  {
+    "id": "technology-4",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      81,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-4-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-4.png"
+  },
+  {
+    "id": "technology-4-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      200,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-4-back.png"
+  },
+  {
+    "id": "technology-5",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      97,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-5-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-5.png"
+  },
+  {
+    "id": "technology-5-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      184,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-5-back.png"
+  },
+  {
+    "id": "technology-6",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      113,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-6-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-6.png"
+  },
+  {
+    "id": "technology-6-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      168,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-6-back.png"
+  },
+  {
+    "id": "technology-7",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      129,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-7-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-7.png"
+  },
+  {
+    "id": "technology-7-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      152,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-7-back.png"
+  },
+  {
+    "id": "technology-8",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      145,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-8-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-8.png"
+  },
+  {
+    "id": "technology-8-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      136,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-8-back.png"
+  },
+  {
+    "id": "technology-9",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      161,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-9-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-9.png"
+  },
+  {
+    "id": "technology-9-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      120,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-9-back.png"
+  },
+  {
+    "id": "technology-10",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      177,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-10-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-10.png"
+  },
+  {
+    "id": "technology-10-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      104,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-10-back.png"
+  },
+  {
+    "id": "technology-11",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      193,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-11-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-11.png"
+  },
+  {
+    "id": "technology-11-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      88,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-11-back.png"
+  },
+  {
+    "id": "technology-12",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      209,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-12-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-12.png"
+  },
+  {
+    "id": "technology-12-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      72,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-12-back.png"
+  },
+  {
+    "id": "technology-13",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      225,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-13-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-13.png"
+  },
+  {
+    "id": "technology-13-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      56,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-13-back.png"
+  },
+  {
+    "id": "technology-14",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      241,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-14-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-14.png"
+  },
+  {
+    "id": "technology-14-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      40,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-14-back.png"
+  },
+  {
+    "id": "technology-15",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 1,
+    "box": [
+      257,
+      177,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "technology-15-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-15.png"
+  },
+  {
+    "id": "technology-15-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 4,
+    "box": [
+      24,
+      177,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/technology-15-back.png"
+  },
+  {
+    "id": "minor-emblem-0",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      17,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "minor-emblem-0-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-0.png"
+  },
+  {
+    "id": "minor-emblem-0-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      264,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-0-back.png"
+  },
+  {
+    "id": "minor-emblem-1",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      33,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "minor-emblem-1-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-1.png"
+  },
+  {
+    "id": "minor-emblem-1-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      248,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-1-back.png"
+  },
+  {
+    "id": "minor-emblem-2",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      49,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "minor-emblem-2-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-2.png"
+  },
+  {
+    "id": "minor-emblem-2-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      232,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-2-back.png"
+  },
+  {
+    "id": "minor-emblem-3",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      65,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "minor-emblem-3-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-3.png"
+  },
+  {
+    "id": "minor-emblem-3-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      216,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-3-back.png"
+  },
+  {
+    "id": "minor-emblem-4",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      81,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "minor-emblem-4-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-4.png"
+  },
+  {
+    "id": "minor-emblem-4-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      200,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-emblem-4-back.png"
+  },
+  {
+    "id": "minor-colony",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      97,
+      17,
+      16,
+      16
+    ],
+    "quantity": 10,
+    "back": "minor-colony-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-colony.png"
+  },
+  {
+    "id": "minor-colony-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      184,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-colony-back.png"
+  },
+  {
+    "id": "combat-station",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      257,
+      17,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "combat-station-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/combat-station.png"
+  },
+  {
+    "id": "combat-station-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      24,
+      17,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/combat-station-back.png"
+  },
+  {
+    "id": "minor-fleet",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      17,
+      33,
+      16,
+      16
+    ],
+    "quantity": 11,
+    "back": "minor-fleet-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-fleet.png"
+  },
+  {
+    "id": "minor-fleet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      264,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-fleet-back.png"
+  },
+  {
+    "id": "minor-fortress",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      33,
+      33,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "minor-fortress-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-fortress.png"
+  },
+  {
+    "id": "minor-fortress-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      248,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/minor-fortress-back.png"
+  },
+  {
+    "id": "walker",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      81,
+      33,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "walker-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/walker.png"
+  },
+  {
+    "id": "walker-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      200,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/walker-back.png"
+  },
+  {
+    "id": "stealth",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      129,
+      33,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "stealth-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/stealth.png"
+  },
+  {
+    "id": "stealth-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      152,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/stealth-back.png"
+  },
+  {
+    "id": "orbital",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      177,
+      33,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "orbital-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/orbital.png"
+  },
+  {
+    "id": "orbital-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      104,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/orbital-back.png"
+  },
+  {
+    "id": "missile",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      193,
+      33,
+      16,
+      16
+    ],
+    "quantity": 2,
+    "back": "missile-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/missile.png"
+  },
+  {
+    "id": "missile-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      88,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/missile-back.png"
+  },
+  {
+    "id": "heavy",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      225,
+      33,
+      16,
+      16
+    ],
+    "quantity": 3,
+    "back": "heavy-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/heavy.png"
+  },
+  {
+    "id": "heavy-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      56,
+      33,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/heavy-back.png"
+  },
+  {
+    "id": "duration-1",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      177,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "duration-1-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-1.png"
+  },
+  {
+    "id": "duration-1-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      104,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-1-back.png"
+  },
+  {
+    "id": "duration-2",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      193,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "duration-2-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-2.png"
+  },
+  {
+    "id": "duration-2-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      88,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-2-back.png"
+  },
+  {
+    "id": "duration-3",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      209,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "duration-3-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-3.png"
+  },
+  {
+    "id": "duration-3-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      72,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-3-back.png"
+  },
+  {
+    "id": "duration-4",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      225,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "duration-4-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-4.png"
+  },
+  {
+    "id": "duration-4-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      56,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-4-back.png"
+  },
+  {
+    "id": "duration-5",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      241,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "duration-5-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-5.png"
+  },
+  {
+    "id": "duration-5-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      40,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-5-back.png"
+  },
+  {
+    "id": "duration-6",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      257,
+      49,
+      16,
+      16
+    ],
+    "quantity": 1,
+    "back": "duration-6-back",
+    "kind": "counter",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-6.png"
+  },
+  {
+    "id": "duration-6-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      24,
+      49,
+      16,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 16,
+    "heightMm": 16,
+    "pixels": [
+      192,
+      192
+    ],
+    "asset": "sources/assets/duration-6-back.png"
+  },
+  {
+    "id": "terran",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      17,
+      79,
+      19,
+      16
+    ],
+    "quantity": 9,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/terran.png"
+  },
+  {
+    "id": "terran-double",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      188,
+      79,
+      19,
+      16
+    ],
+    "quantity": 1,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/terran-double.png"
+  },
+  {
+    "id": "rich",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      17,
+      95,
+      19,
+      16
+    ],
+    "quantity": 9,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/rich.png"
+  },
+  {
+    "id": "rich-double",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      188,
+      95,
+      19,
+      16
+    ],
+    "quantity": 1,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/rich-double.png"
+  },
+  {
+    "id": "asteroids",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      17,
+      111,
+      19,
+      16
+    ],
+    "quantity": 13,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/asteroids.png"
+  },
+  {
+    "id": "rich-terran",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      93,
+      127,
+      19,
+      16
+    ],
+    "quantity": 4,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/rich-terran.png"
+  },
+  {
+    "id": "rich-terran-double",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      169,
+      127,
+      19,
+      16
+    ],
+    "quantity": 1,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/rich-terran-double.png"
+  },
+  {
+    "id": "occupied",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 2,
+    "box": [
+      207,
+      79,
+      19,
+      16
+    ],
+    "quantity": 6,
+    "back": "planet-back",
+    "kind": "planet",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/occupied.png"
+  },
+  {
+    "id": "planet-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 5,
+    "box": [
+      71,
+      79,
+      19,
+      16
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 19,
+    "heightMm": 16,
+    "pixels": [
+      228,
+      192
+    ],
+    "asset": "sources/assets/planet-back.png"
+  },
+  {
+    "id": "red-board",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 3,
+    "box": [
+      5.925,
+      15.048,
+      198.149,
+      55.709
+    ],
+    "quantity": 1,
+    "back": "red-board-back",
+    "kind": "board",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/red-board.png"
+  },
+  {
+    "id": "red-board-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 6,
+    "box": [
+      5.977,
+      15.048,
+      198.149,
+      55.709
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/red-board-back.png"
+  },
+  {
+    "id": "blue-board",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 3,
+    "box": [
+      5.925,
+      70.757,
+      198.149,
+      55.709
+    ],
+    "quantity": 1,
+    "back": "blue-board-back",
+    "kind": "board",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/blue-board.png"
+  },
+  {
+    "id": "blue-board-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 6,
+    "box": [
+      5.977,
+      70.757,
+      198.149,
+      55.709
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/blue-board-back.png"
+  },
+  {
+    "id": "green-board",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 3,
+    "box": [
+      5.925,
+      126.46600000000001,
+      198.149,
+      55.709
+    ],
+    "quantity": 1,
+    "back": "green-board-back",
+    "kind": "board",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/green-board.png"
+  },
+  {
+    "id": "green-board-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 6,
+    "box": [
+      5.977,
+      126.46600000000001,
+      198.149,
+      55.709
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/green-board-back.png"
+  },
+  {
+    "id": "yellow-board",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 3,
+    "box": [
+      5.925,
+      182.175,
+      198.149,
+      55.709
+    ],
+    "quantity": 1,
+    "back": "yellow-board-back",
+    "kind": "board",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/yellow-board.png"
+  },
+  {
+    "id": "yellow-board-back",
+    "file": "Counters-Nova-P&P.pdf",
+    "page": 6,
+    "box": [
+      5.977,
+      182.175,
+      198.149,
+      55.709
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 0,
+    "widthMm": 198.149,
+    "heightMm": 55.709,
+    "pixels": [
+      2378,
+      669
+    ],
+    "asset": "sources/assets/yellow-board-back.png"
+  },
+  {
+    "id": "map",
+    "file": "Map_Nova.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      457.2,
+      457.2
+    ],
+    "quantity": 1,
+    "back": null,
+    "kind": "map",
+    "rotation": 0,
+    "widthMm": 457.2,
+    "heightMm": 457.2,
+    "pixels": [
+      5486,
+      5486
+    ],
+    "asset": "sources/assets/map.png"
+  },
+  {
+    "id": "reference",
+    "file": "Tables_Nova.pdf",
+    "page": 1,
+    "box": [
+      0,
+      0,
+      133.35,
+      260.35
+    ],
+    "quantity": 1,
+    "back": "reference-back",
+    "kind": "aid",
+    "rotation": 270,
+    "widthMm": 260.35,
+    "heightMm": 133.35,
+    "pixels": [
+      3124,
+      1600
+    ],
+    "asset": "sources/assets/reference.png"
+  },
+  {
+    "id": "reference-back",
+    "file": "Tables_Nova.pdf",
+    "page": 2,
+    "box": [
+      0,
+      0,
+      133.35,
+      260.35
+    ],
+    "quantity": 0,
+    "back": null,
+    "kind": "back",
+    "rotation": 270,
+    "widthMm": 260.35,
+    "heightMm": 133.35,
+    "pixels": [
+      3124,
+      1600
+    ],
+    "asset": "sources/assets/reference-back.png"
+  },
+  {
+    "id": "tracks",
+    "file": "Tables_Nova.pdf",
+    "page": 3,
+    "box": [
+      0,
+      0,
+      133.35,
+      260.35
+    ],
+    "quantity": 1,
+    "back": null,
+    "kind": "board",
+    "rotation": 270,
+    "widthMm": 260.35,
+    "heightMm": 133.35,
+    "pixels": [
+      3124,
+      1600
+    ],
+    "asset": "sources/assets/tracks.png"
+  }
+]
