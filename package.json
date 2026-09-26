@@ -6,7 +6,8 @@
   "scripts": {
     "convert": "node scripts/enhance.mjs && node scripts/render.mjs && node scripts/convert.mjs",
     "build": "node scripts/build.mjs",
-    "preview": "node scripts/serve.mjs"
+    "preview": "node scripts/serve.mjs",
+    "setup:game": "node scripts/setup.mjs"
   },
   "dependencies": {
     "fflate": "0.8.3",
