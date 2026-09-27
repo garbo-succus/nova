@@ -11,11 +11,11 @@ Source: [Nova — Conflict in the Last Frontier](https://printandplay.games/nova
 | sources/enhanced/ | Real-CUGAN reference-banner image, the only undersized embedded component image |
 | scripts/ | JavaScript converter, build and preview tools |
 | release/ | Deduplicated playable output |
-| dist/nova.probability.zip | One playable ZIP, 4.37 MB |
+| dist/nova.probability.zip | One playable ZIP, 4.38 MB |
 
 Node.js 22+, pnpm 10; Poppler's pdftoppm is needed only for conversion. Run `pnpm install --frozen-lockfile`, then `pnpm build` and `pnpm preview`. To regenerate cropped artwork from the PDFs and prepared enhanced banner, run `pnpm convert` before building. Intermediate renders are cached in .cache/.
 
-[Open in local Probability](http://localhost:3004/play/#template=http%3A%2F%2F127.0.0.1%3A45944%2Fcompact%2F). The preview server uses 127.0.0.1:45944; Probability must be running at localhost:3004. Importing the ZIP also works.
+[Open in local Probability](http://localhost:3003/play/#template=http%3A%2F%2F127.0.0.1%3A45944%2Fcompact%2F). The preview server uses 127.0.0.1:45944; Probability must be running at localhost:3003. Importing the ZIP also works.
 
 370 original game pieces plus three additional reference sheets and one fake private-area mat (374 total): 90 cards (three decks of 30), 268 counters/planet tiles, four player boards, one map, one two-sided reference aid, one tracking board and five classic pip dice. Repeated counters share artwork. Fronts and backs follow the printed sheets. All positions use a 1 mm grid; card sizes are 63.5 × 95.25 mm.
 
@@ -25,4 +25,4 @@ Native component art is predominantly 300 dpi (11.81 px/mm), within the requeste
 
 This full-resolution package is intentionally retained as a Probability limits test. It can show grey pieces and GPU-budget errors; these renderer limitations are not worked around.
 
-The blank fake private play area is 841 × 594 × 3 mm, matching Settlers’ cutting mat. It is a public visual placeholder, not an access-control boundary. Each player kit rests on an identical, original-size copy of the printed reference sheet (260.35 × 133.35 mm), keeping it movable as a group. All four copies share the same model and front/back textures. Players configure actual privacy in Probability. The fake private-area mat uses plain geometry without image textures.
+The fake private play area is the exact 400 × 400 × 4 mm model from the published Settlers game, including its original SVG texture and materials. It is a public visual placeholder, not an access-control boundary. Each player kit rests on an identical, original-size copy of the printed reference sheet (260.35 × 133.35 mm), keeping it movable as a group. All four copies share the same model and front/back textures. Players configure actual privacy in Probability. Its source model, geometry and SVG are retained in `sources/private-play-area/`.

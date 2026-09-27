@@ -9,21 +9,19 @@ for(const a of assets.filter(x=>x.quantity)){
  model.images=[a.id,a.back||a.id].map(id=>({mimeType:'image/avif',uri:'/resources/'+id+'.avif'}));model.textures=[0,1].map(source=>({extensions:{EXT_texture_avif:{source}}}));model.extensionsUsed=['EXT_texture_avif'];model.extensionsRequired=['EXT_texture_avif'];
  await fs.writeFile(out+'pieces/'+a.id+'.gltf',JSON.stringify(model));
 }
-// Plain geometry adds grouping areas without extra texture memory.
-const mats=JSON.parse(await fs.readFile(root+'sources/mats.json'));
-for(const {id,size,color} of mats){
- const model=structuredClone(template),bin=Buffer.from(sourceBin);
- const positions=new Set(model.meshes.flatMap(m=>m.primitives.map(p=>p.attributes.POSITION)));
- for(const index of positions){const ac=model.accessors[index],view=model.bufferViews[ac.bufferView],offset=(view.byteOffset||0)+(ac.byteOffset||0);const scale=[size[0]/.0635,size[1]/.0003,size[2]/.09525];for(let i=0;i<ac.count;i++)for(let axis=0;axis<3;axis++){const off=offset+i*(view.byteStride||12)+axis*4;bin.writeFloatLE(bin.readFloatLE(off)*scale[axis],off);}for(const name of ['min','max'])if(ac[name])ac[name]=ac[name].map((v,i)=>v*scale[i]);}
- model.buffers[0].uri='/resources/'+id+'.bin';model.materials=[{name:id,alphaMode:'OPAQUE',pbrMetallicRoughness:{baseColorFactor:color,metallicFactor:0,roughnessFactor:1}}];for(const mesh of model.meshes)for(const p of mesh.primitives)p.material=0;delete model.images;delete model.textures;delete model.samplers;delete model.extensionsUsed;delete model.extensionsRequired;await fs.writeFile(out+'resources/'+id+'.bin',bin);await fs.writeFile(out+'pieces/'+id+'.gltf',JSON.stringify(model));
-}
+// Reuse Settlers' private-area geometry, SVG and materials exactly.
+const privateArea=JSON.parse(await fs.readFile(root+'sources/private-play-area/model.gltf'));
+privateArea.images[0].uri='/resources/private-play-area.svg';privateArea.buffers[0].uri='/resources/private-play-area.bin';
+await fs.copyFile(root+'sources/private-play-area/face.svg',out+'resources/private-play-area.svg');
+await fs.copyFile(root+'sources/private-play-area/geometry.bin',out+'resources/private-play-area.bin');
+await fs.writeFile(out+'pieces/private-play-area.gltf',JSON.stringify(privateArea));
 const die=JSON.parse(await fs.readFile(root+'sources/die/die.gltf'));for(const x of [...die.images,...die.buffers])await fs.copyFile(root+'sources/die/'+path.basename(x.uri),out+x.uri.slice(1));await fs.writeFile(out+'pieces/die.gltf',JSON.stringify(die));
 const game=JSON.parse(await fs.readFile(root+'sources/game.json'));
 // Keep the saved layout and shuffled card order on every rebuild.
 const walk=xs=>xs.flatMap(x=>[x,...walk(x.children||[])]);const pieces=walk(game.children);if(pieces.length!==374)throw Error('Expected 374 pieces, got '+pieces.length);
 const needed=new Set(pieces.map(x=>x.src));for(const p of [...needed]){const model=JSON.parse(await fs.readFile(out+p));for(const x of [...(model.images||[]),...(model.buffers||[])])if(x.uri&&!x.uri.startsWith('data:'))needed.add(x.uri.replace(/^\//,''));}
 const license=await fs.readFile(root+'LICENSE.md');await fs.writeFile(out+'LICENSE.md',license);needed.add('LICENSE.md');
-const contents={},files=[];const types={gltf:'model/gltf+json',avif:'image/avif',webp:'image/webp',bin:'application/octet-stream',md:'text/markdown'};
+const contents={},files=[];const types={gltf:'model/gltf+json',avif:'image/avif',webp:'image/webp',svg:'image/svg+xml',bin:'application/octet-stream',md:'text/markdown'};
 for(const name of [...needed].sort()){const data=await fs.readFile(out+name);contents[name]=data;files.push({path:name,bytes:data.length,sha256:createHash('sha256').update(data).digest('hex'),mediaType:types[name.split('.').at(-1)]||'application/octet-stream'});}
 const release=JSON.parse(await fs.readFile(root+'sources/release-schema.json'));release.game=game;release.files=files;contents['release.json']=strToU8(JSON.stringify(release));contents['package.json']=strToU8(JSON.stringify({name:'Nova',main:'release.json'}));
 for(const name of ['release.json','package.json'])await fs.writeFile(out+name,contents[name]);

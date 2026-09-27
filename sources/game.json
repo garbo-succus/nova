@@ -8073,9 +8073,9 @@
     {
       "src": "pieces/private-play-area.gltf",
       "size": [
-        0.841,
-        0.003,
-        0.594
+        0.4,
+        0.004,
+        0.4
       ],
       "position": [
         0,
@@ -8087,8 +8087,14 @@
         0,
         0
       ],
-      "fixed": false,
-      "children": []
+      "fixed": true,
+      "children": [],
+      "tint": [
+        1,
+        1,
+        1,
+        1
+      ]
     }
   ]
 }

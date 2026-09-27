@@ -13,3 +13,5 @@ This is a noncommercial local format conversion of the printed pieces. Section 2
 
 Classic pip dice: CC BY 4.0, Garbo Succus; source assets by Misha Tsyatsko, from Probability's built-in catalogue.
 Project JavaScript scripts: CC0.
+
+Private play area: copied from Neftaly’s published Settlers package (`settlers-9kiu.zip`), https://neftalydotcom.prob.nz/title/settlers . Original geometry, material values and SVG retained; only packaged resource paths change. SVG attribution metadata is preserved (Atkinson Hyperlegible Mono lettering and emoji credits).
